@@ -1,0 +1,6 @@
+#First Join Commands#
+#####################
+#Commands to run:
+commands:
+  - say Welcome %player%!
+  - say to the server!

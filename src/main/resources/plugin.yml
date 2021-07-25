@@ -1,0 +1,13 @@
+name: FirstJoinCommands
+version: ${project.version}
+main: bg.hollyweed.firstjoincommands.FirstJoinCommands
+api-version: 1.17
+authors: [ KamosRZ ]
+description: Runs commands if the player joins for the first time
+
+commands:
+  firstjoincommandsreload:
+    description: Reloads the configuration
+    usage: /firstjoincommandsreload
+    permission: firstjoincommands.reload
+    aliases: fjc-r
